@@ -1,5 +1,5 @@
 # Polish-2019-Sejm-Analysis
-Just some miningless analysis on 2019 Polish sejm elections
+Just some miningless analysis on 2019 Polish sejm elections, based on position on committee list
 
 You will find most crucial information in Jupyter Notebook (.ipynb) file. Its fully readable without any additional software, if you want to edit it there is a guide how to do it https://jupyter.org/install
 
